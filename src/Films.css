@@ -1,0 +1,14 @@
+button {
+  font-family: "Gluten", cursive;
+  background-color: white;
+  padding: 1.2em 2.2em;
+  border-radius: 1em;
+}
+
+button:hover {
+  background-color: pink;
+}
+
+p {
+  margin: 0.5em;
+}
