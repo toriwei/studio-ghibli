@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studio-ghibli/static/css/main.dd81bc11.css",
+    "main.js": "/studio-ghibli/static/js/main.420d2f8b.js",
+    "index.html": "/studio-ghibli/index.html",
+    "main.dd81bc11.css.map": "/studio-ghibli/static/css/main.dd81bc11.css.map",
+    "main.420d2f8b.js.map": "/studio-ghibli/static/js/main.420d2f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd81bc11.css",
+    "static/js/main.420d2f8b.js"
+  ]
+}
